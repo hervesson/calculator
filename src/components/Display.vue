@@ -22,6 +22,5 @@
         padding: 20px;
         font-size: 2.1em;
         overflow: hidden;
-
     }
 </style>
